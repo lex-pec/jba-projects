@@ -1,4 +1,4 @@
 # Zookeeper
 Provides a sustainable care of the animals in a zoo. 
 
-_It is a final part of the course on the JetBrains Academy._
+_It is a final result of one of the courses on the JetBrains Academy._
